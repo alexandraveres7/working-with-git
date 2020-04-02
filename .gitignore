@@ -1,0 +1,8 @@
+always_ignored.txt
+
+# ignore all hiden files
+.*
+
+# preserve .gitignore and .gitkeep files
+!.gitignore
+!.gitkeep
